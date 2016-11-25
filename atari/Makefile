@@ -1,0 +1,2 @@
+run:
+	python atari.py
