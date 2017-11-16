@@ -20,3 +20,12 @@ Links:
     - Paper: http://arxiv.org/pdf/1602.01783v1.pdf
     - OpenAI's gym: https://gym.openai.com/
     - Original Repo: https://github.com/coreylynch/async-rl
+
+=======================================================
+How it works
+=======================================================
+
+::
+
+    $ cd atari
+    $ make run
